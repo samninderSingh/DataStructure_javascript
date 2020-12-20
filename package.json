@@ -1,0 +1,23 @@
+{
+  "name": "data-structure",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Reverse_Linked_List.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon findMedianSortedArrays.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samninderSingh/DataStructure_javascript.git"
+  },
+  "author": "Samninder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samninderSingh/DataStructure_javascript/issues"
+  },
+  "homepage": "https://github.com/samninderSingh/DataStructure_javascript#readme",
+  "dependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
